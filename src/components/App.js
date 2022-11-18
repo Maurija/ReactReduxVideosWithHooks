@@ -4,7 +4,7 @@ import youtube from "../apis/youtube";
 import VideoList from "./VideoList";
 import VideoDetail from "./VideoDetail";
 
-clase 210
+
 
 const App = () => {
     const [videos,setVideos] = useState([]);
